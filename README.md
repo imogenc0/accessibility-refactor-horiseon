@@ -12,3 +12,40 @@ N/A
 
 ## Usage
 
+```md
+![search engine optimisation tab](assets/readme-pics/seo.JPG)
+```
+
+Clicking on this Search Engine Optimisation tab (as shown above) leads to this section on the page:
+
+```md
+![Search Engine Optimisation Description](assets/readme-pics/seo-result.JPG)
+```
+
+```md
+![online reputation management tab](assets/readme-pics/orm.JPG)
+```
+
+Clicking on this Online Reputation Management tab (as shown above) leads to this section on the page:
+
+```md
+![Online reputation management description](assets/readme-pics/orm%20result.JPG)
+```
+
+```md
+![Social Media Management tab](assets/readme-pics/smm.JPG)
+```
+
+Clicking on this Social Media Management tab (as shown above) leads to this section on the page:
+
+```md
+![Social Media Management description](assets/readme-pics/smm%20result.JPG)
+```
+
+## Credits
+
+N/A
+
+## Liscence
+
+MIT Liscence - please see liscence for reference.
