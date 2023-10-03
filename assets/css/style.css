@@ -69,6 +69,7 @@ p {
     margin-left: 25px;
 }
 
+
 .content {
     width: 75%;
     display: inline-block;
@@ -189,6 +190,10 @@ p {
     color: #ffffff;
 } */
 
+.content img {
+    max-height: 200px;
+}
+/* content images all have same value so will clean up
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -199,8 +204,13 @@ p {
 
 .social-media-marketing img {
     max-height: 200px;
-}
+} */
 
+.content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* simplifying h2 css into one block using content class
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -214,7 +224,7 @@ p {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
+} */
 
 .footer {
     padding: 30px;
