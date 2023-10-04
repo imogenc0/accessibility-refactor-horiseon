@@ -1,4 +1,4 @@
-# [Accessibility-Refactor-Horiizon](https://imogenc0.github.io/accessibility-refactor-horiseon/)
+# [Accessibility-Refactor-Horiseon](https://imogenc0.github.io/accessibility-refactor-horiseon/)
 
 Refactoring the Horiseon site to make it more accessible to users
 
